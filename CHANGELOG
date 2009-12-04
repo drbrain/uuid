@@ -1,6 +1,10 @@
+2.1.0 (2009-12-04)
+
+* Added: UUID::validate - Validates format (not layout) of a UUID.
+
 2.0.2 (2009-06-10)
 * Maintenance release. Added uuid.gemspec file in packaging, tested against
-Ruby 1.9.1.
+  Ruby 1.9.1.
 
 2.0.1 (2008-08-28)
 * Fixed:    MAC address parses correctly when using colon as separator, not

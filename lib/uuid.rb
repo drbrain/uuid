@@ -59,7 +59,7 @@ require 'macaddr'
 
 class UUID
 
-  VERSION = '2.0.1'
+  VERSION = '2.1.0'
 
   ##
   # Clock multiplier. Converts Time (resolution: seconds) to UUID clock
